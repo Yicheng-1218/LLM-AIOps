@@ -53,3 +53,17 @@ venv.bak/
 # 系統檔案
 .DS_Store
 Thumbs.db
+
+# 編譯檔案
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.dll
+*.exe
+
+# 文檔
+/AIOps/proxmox_documents/*
+
+# 截圖
+/AIOps/screenshots/*

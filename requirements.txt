@@ -2,3 +2,6 @@ langchain
 langchain_anthropic
 python-dotenv
 langchain_community
+pymupdf
+fastapi
+uvicorn
