@@ -28,7 +28,7 @@ The system works as follows:
 
 ## Installation
 ```bash
-git clone https://github.com/your-repo/LLM-AIOps.git
+git clone https://github.com/Yicheng-1218/LLM-AIOps.git
 cd LLM-AIOps
 pip install -r requirements.txt
 ```
