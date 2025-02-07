@@ -1,5 +1,5 @@
 ## Overview
-**LLM-AIOps** is an intelligent agent powered by Claude, designed to simplify IT operations through **natural language commands**. Seamlessly integrated with LINE BOT, it enables users to manage **Proxmox VE (PVE)** and retrieve solutions from **API documentation** or **troubleshooting guides** using intelligent natural language processing and retrieval-augmented generation (RAG).
+**LLM-AIOps** is an intelligent agent powered by AI, designed to simplify IT operations through **natural language commands**. Seamlessly integrated with LINE BOT, it enables users to manage **Proxmox VE (PVE)** and retrieve solutions from **API documentation** or **troubleshooting guides** using intelligent natural language processing and retrieval-augmented generation (RAG).
 
 The system supports:
 - **Executing API commands** to manage Proxmox VE infrastructure.
