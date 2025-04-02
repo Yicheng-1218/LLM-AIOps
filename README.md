@@ -95,4 +95,7 @@ Fetches the latest screenshot from Proxmox VE.
 Below is the high-level architecture of **LLM-AIOps**:
 ![Architecture Diagram](https://github.com/user-attachments/assets/614ef65b-bddc-443c-9ef1-8533f65a77ca)
 
+## License
+This project is released under the MIT License. If you find it useful or would like to reference it in your work, attribution is appreciated!
+
 
